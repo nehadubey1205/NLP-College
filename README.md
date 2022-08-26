@@ -11,6 +11,7 @@
 4-Lemmatization: Write a python program that uses NLTK library to lemmatize a given input word. [2 pts]
 
 5-POS Tagging: Write a python program that uses NLTK library to perform POS tagging in a given input sentence. [2 pts]
+
 #Assignment-2
 #Attempt all the questions in this assignment in a single jupyter notebook (use google colab). Your outputs should be visible in the notebook. Save the notebook as a single ipynb file and submit it on google classroom.
 Dataset (D1): This is a textual dataset comprising of user generated text (there are many examples of user generated text, like social media posts, review comments, etc)
